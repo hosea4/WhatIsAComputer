@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    max-width: auto;
+
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: "Ubuntu";
+    font-size: 20px; 
+}
+p {
+    margin-bottom: 15px;
+}
+.bold {
+    font-weight: bold;
+}
+.main {
+    max-width: 1400px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+ol, ul {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+img {
+    border-radius: 40px;
+}
